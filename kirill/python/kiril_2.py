@@ -21,7 +21,7 @@ while True:
 
     first=lim_1
     second=0
-    h = 4
+    h = 3
     z = PrettyTable()
     sum_list = []
 
